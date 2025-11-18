@@ -1,0 +1,5 @@
+{
+  "name": "FinJourney",
+  "description": "Un'applicazione elegante e semplice per visualizzare il tuo percorso finanziario, fornendo una dashboard pulita per il tuo saldo, obiettivi di risparmio e transazioni recenti.",
+  "requestFramePermissions": []
+}
